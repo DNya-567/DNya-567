@@ -17,18 +17,30 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,python,fastapi,git,github,docker,vscode,postman,figma,wasm" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,python,fastapi,git,github,docker,vscode,figma,wasm" />
 </div>
 
 <br/>
 
-https://github-stats-extended.vercel.app/api?username=DNya-567&show_icons=true
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=DNya-567&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DNya-567&layout=compact&theme=radical&hide_border=true" width="30%"/>
+
+<img src="https://streak-stats.demolab.com?user=DNya-567&theme=radical&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DNya-567&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
+
 <br/>
 
 <div align="center">
