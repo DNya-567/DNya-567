@@ -45,6 +45,14 @@
 
 <br/>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/DNya-567/DNya-567/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</div>
+
+<br/>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DNya-567&color=6a5acd&style=flat)
