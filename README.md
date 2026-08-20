@@ -38,7 +38,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DNya-567&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://trophy.benkou.dev/?username=DNya-567&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 <br/>
