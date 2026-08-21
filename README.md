@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
 <img src="https://raw.githubusercontent.com/DNya-567/DNya-567/main/assets/header.svg" width="100%" alt="Header Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Final-Year+Computer+Engineering+Student;Full-Stack+Web+Developer;DSA+%26+SQL+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
